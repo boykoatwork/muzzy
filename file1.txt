@@ -4,3 +4,4 @@ I'm dog!
 Оставим обе версии:
 hello
 hello katep
+hello vik
